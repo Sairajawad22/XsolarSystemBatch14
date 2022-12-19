@@ -8,6 +8,6 @@ public class Main {
        FeatureSon Xeron=new FeatureSon();
        Xeron.Heat="122345445";
        Xeron.size=13245625;
-       Xeron.Temprature="1324"
+       Xeron.Temprature=700;
     }
 }
